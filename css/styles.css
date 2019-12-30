@@ -1,0 +1,23 @@
+.initially-hidden {
+    display: none;
+  }
+  
+  .header {
+    text-align: center;
+    font-family: cursive;
+    font-weight: 400;
+    background-color: #B195D4;
+    margin-top: 0;
+    padding-top: 20px;
+  }
+  
+  .pizza-info-toggle {
+    display: none;
+    cursor: pointer;
+  }
+  
+  .pizza h4 {
+    color: blue;
+    cursor: pointer;
+    font-weight: bold;
+  }
